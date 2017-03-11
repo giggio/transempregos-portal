@@ -139,6 +139,10 @@
     "@types/cookies" "*"
     "@types/node" "*"
 
+"@types/lodash@^4.14.55":
+  version "4.14.55"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.55.tgz#75d7d4eba020ee4103d4cbd0f2a3ef5db8f7534f"
+
 "@types/mocha@^2.2.34":
   version "2.2.37"
   resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-2.2.37.tgz#8e0d5327ffa0734999c1010967853de917f3a38e"

@@ -1,6 +1,6 @@
 import { Router } from '../transRouter';
 import { User, SafeUser } from '../../models/user';
-const pick: Function = require('lodash/pick');
+import { pick } from 'lodash';
 
 const router = new Router();
 router.put('/:id', async ctx => {
